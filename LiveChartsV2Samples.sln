@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChartsV2Sample001", "LiveChartsV2Sample001\LiveChartsV2Sample001.csproj", "{E69A18C6-1C15-4E5E-B5B9-2573456B6E62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChartsV2Sample001", "LiveChartsV2Sample001\LiveChartsV2Sample001.csproj", "{E69A18C6-1C15-4E5E-B5B9-2573456B6E62}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BindingLibrary", "BindingLibrary\BindingLibrary.csproj", "{0E18C604-BAA7-4BCC-9631-231C451DC128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChartsV2Sample002", "LiveChartsV2Sample002\LiveChartsV2Sample002.csproj", "{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0E18C604-BAA7-4BCC-9631-231C451DC128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E18C604-BAA7-4BCC-9631-231C451DC128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E18C604-BAA7-4BCC-9631-231C451DC128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
