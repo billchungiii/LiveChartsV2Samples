@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChartsV2Sample001", "Li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BindingLibrary", "BindingLibrary\BindingLibrary.csproj", "{0E18C604-BAA7-4BCC-9631-231C451DC128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChartsV2Sample002", "LiveChartsV2Sample002\LiveChartsV2Sample002.csproj", "{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChartsV2Sample002", "LiveChartsV2Sample002\LiveChartsV2Sample002.csproj", "{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChartsV2Sample003", "LiveChartsV2Sample003\LiveChartsV2Sample003.csproj", "{167852F8-1B1F-4A26-A0E2-A27F19B01D49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB692891-8A7C-4E40-AFED-E5B99EBDE95B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167852F8-1B1F-4A26-A0E2-A27F19B01D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167852F8-1B1F-4A26-A0E2-A27F19B01D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167852F8-1B1F-4A26-A0E2-A27F19B01D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167852F8-1B1F-4A26-A0E2-A27F19B01D49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
