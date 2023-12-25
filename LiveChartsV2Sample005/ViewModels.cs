@@ -100,7 +100,6 @@ namespace LiveChartsV2Sample005
                     await Display(5);
                     panel.Children.Add(chart);
                     await Display(6);
-
                     async Task Display(int testIndex)
                     {
                         await Task.Delay(80);
